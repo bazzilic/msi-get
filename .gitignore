@@ -1,0 +1,5 @@
+﻿packages/
+msi-get/bin/
+msi-get/obj/
+.git
+.vs
